@@ -1,0 +1,5 @@
+Apa saja yang bisa dilakukan di Aplikasi?
+Antrian apa saja yang bisa dilakukan pendaftaran?
+Notifikasi antrian pada saat 30, 15 menit sebelum jam yang telah ditentukan
+Relasi antara user dan antriannya
+2 table tambah 3
